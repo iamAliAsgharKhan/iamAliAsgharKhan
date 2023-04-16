@@ -34,3 +34,5 @@
 <a target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge"/></a> 
 <a target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a> 
 </p>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/aliasghartheDev)
