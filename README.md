@@ -21,7 +21,7 @@
 ### **1. Web Development**
    - **Backend**: Laravel, Django
    - **Frontend**: JavaScript, ReactJS
-   - **APIs**: REST, GraphQL, OAuth2, JWT, Swagger
+   - **APIs**: REST, GraphQL, OAuth2, JWT
    - **Real-Time**: WebSockets
 
 ### **2. Programming Languages**
@@ -37,7 +37,7 @@
 
 ### **5. Machine Learning & Data Science**
    - **Libraries**: PyTorch, Scikit-Learn, Pandas, NumPy
-   - **Portfolio**: [Kaggle](https://www.kaggle.com/ialiasghar) & [deep-ml.com](https://deep-ml.com)
+   - **Portfolio**: [Kaggle](https://www.kaggle.com/ialiasghar)
 
 ### **6. Version Control**
    - Git
