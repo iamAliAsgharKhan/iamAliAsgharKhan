@@ -28,33 +28,28 @@
    - Python, JavaScript, PHP
 
 ### **3. Data Structures & Algorithms**
-   - Arrays, Trees, Graphs, Sorting, Searching, Dynamic Programming
-   - Active on Leetcode & Codeforces
+   - Strong understanding of data structures and algorithms.
+   - Actively practicing on Leetcode & Codeforces.
 
 ### **4. Databases**
    - **SQL**: MySQL, PostgreSQL
    - **NoSQL**: MongoDB
 
 ### **5. Machine Learning & Data Science**
-   - **Core Concepts**: Supervised/Unsupervised Learning, Regression
    - **Libraries**: PyTorch, Scikit-Learn, Pandas, NumPy
-   - **Portfolio**: Kaggle & deep-ml.com
+   - **Portfolio**: [Kaggle](https://www.kaggle.com/ialiasghar) & [deep-ml.com](https://deep-ml.com)
 
-### **6. Mathematics for ML**
-   - Statistics, Probability, Linear Algebra, Calculus
-
-### **7. Version Control**
+### **6. Version Control**
    - Git
 
-### **8. Containers & Deployment**
-   - Docker for deployment
+### **7. Containers & Deployment**
+   - **Tools**: Docker
 
-### **9. Testing & Automation**
-   - **UI & Test Automation**: Selenium, Pytest
+### **8. Testing & Automation**
+   - **Tools & Frameworks**: Selenium, Pytest
 
-### **10. Web Scraping**
-   - **Dynamic Data**: Selenium for JavaScript-heavy sites
-   - **Static Data**: BeautifulSoup, Scrapy
+### **9. Web Scraping**
+   - **Tools & Libraries**: Selenium, BeautifulSoup, Scrapy
 
 ---
 
