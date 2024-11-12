@@ -10,6 +10,7 @@
 
 ## 🌐 About Me
 - **Full-Stack Developer** specializing in scalable, high-performance web solutions.
+- **Consulting ML Engineer** dedicated to turning complex data into strategic insights, delivering solutions that drive measurable results
 - **CS Honors Graduate** from COMSATS University, Islamabad.
 - 🌍 **Portfolio**: [Explore my work](https://iamaliasgharkhan.github.io/)
 
