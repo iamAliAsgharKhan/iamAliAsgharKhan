@@ -24,7 +24,7 @@
    - **Real-Time**: WebSockets
 
 ### **2. Programming Languages**
-   - Python, JavaScript, PHP, TypeScript
+   - Python, JavaScript, PHP
 
 ### **3. Data Structures & Algorithms**
    - Arrays, Trees, Graphs, Sorting, Searching, Dynamic Programming
@@ -33,7 +33,6 @@
 ### **4. Databases**
    - **SQL**: MySQL, PostgreSQL
    - **NoSQL**: MongoDB
-   - **Caching**: Redis
 
 ### **5. Machine Learning & Data Science**
    - **Core Concepts**: Supervised/Unsupervised Learning, Regression
@@ -50,7 +49,7 @@
    - Docker for deployment
 
 ### **9. Testing & Automation**
-   - **UI & Test Automation**: Selenium, Pytest, Jest
+   - **UI & Test Automation**: Selenium, Pytest
 
 ### **10. Web Scraping**
    - **Dynamic Data**: Selenium for JavaScript-heavy sites
