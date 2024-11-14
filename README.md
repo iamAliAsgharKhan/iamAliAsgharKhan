@@ -62,7 +62,6 @@
 
 ## 🏆 Stack Overflow Activity
 - **Reputation**: ![Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/5355156?label=Reputation)
-- **Badge**: Teacher (for helping others on Stack Overflow!)
 - **Profile**: [View my Stack Overflow](https://stackoverflow.com/users/5355156/ali-asghar)
 
 
