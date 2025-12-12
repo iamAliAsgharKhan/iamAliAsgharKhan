@@ -65,9 +65,6 @@ Fine-tuned the **BLIP Transformer** model for Radiology and Pathology QA.
 
 ## 🏆 Stats & Community
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=iamAliAsgharKhan&show_icons=true&theme=radical&hide_border=true" alt="Ali's Github Stats" />
-</p>
 
 ### Stack Overflow
 - **Reputation**: ![Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/5355156?label=Reputation&color=orange)
