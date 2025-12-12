@@ -46,7 +46,7 @@ Fine-tuned the **BLIP Transformer** model for Radiology and Pathology QA.
 
 ### **1. Artificial Intelligence & Data**
    - **GenAI & LLMs**: RAG Architectures, LangChain, Groq, Llama 3, Prompt Engineering
-   - **Deep Learning**: PyTorch, Transformers (HuggingFace), Computer Vision
+   - **Deep Learning**: PyTorch, Transformers, Computer Vision
    - **Data Science**: Pandas, NumPy, Scikit-Learn, Matplotlib
    - **Vector Databases**: ChromaDB, FAISS
 
