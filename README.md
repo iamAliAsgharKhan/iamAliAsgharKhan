@@ -77,5 +77,5 @@ Fine-tuned the **BLIP Transformer** model for Radiology and Pathology QA.
 
 <p align="center">
     <i>Let's build something intelligent.</i><br>
-    <b>Email:</b> aliasgharkhan@myemail.com
+    <b>Email:</b> iamaliasgharkhan@gemail.com
 </p>
